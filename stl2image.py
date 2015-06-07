@@ -1,3 +1,8 @@
+"""
+stl2image script takes a stl file and renders it into a image file e.g.
+/Applications/Blender/blender.app/Contents/MacOS/blender --python stl2image.py -- ~/Downloads/bearing.stl /tmp/b8.png
+"""
+
 import sys
 import math
 
